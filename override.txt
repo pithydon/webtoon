@@ -1,0 +1,1 @@
+moreblocks:trap_glow_glass all moreblocks_trap_glow_glass.png
