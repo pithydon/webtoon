@@ -3,6 +3,12 @@ moreblocks:clean_glass bottom blank.png
 moreblocks:clean_glass sides blank.png
 moreblocks:iron_glass bottom moreblocks_iron_glass_detail.png
 moreblocks:iron_glass sides moreblocks_iron_glass_detail.png
+wireworld:mese_head all wireworld_mese_head.png
+wireworld:mese_tail all wireworld_mese_tail.png
+xdecor:coalstone_tile back xdecor_coalstone_tile.png^[transformR90
+xdecor:coalstone_tile front xdecor_coalstone_tile.png^[transformR90
+xdecor:curtain_red all wool_red.png
+xdecor:curtain_open_red all wool_red^xdecor_curtain_open_overlay.png^[makealpha:255,126,126
 xdecor:moonbrick all moreblocks_grey_bricks.png
 xdecor:stone_rune all moreblocks_circle_stone_bricks.png
 xdecor:stone_tile all moreblocks_stone_tile.png
