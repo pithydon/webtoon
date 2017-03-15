@@ -1,1 +1,10 @@
-moreblocks:trap_glow_glass all moreblocks_trap_glow_glass.png
+moreblocks:clean_glass top default_glass.png
+moreblocks:clean_glass bottom blank.png
+moreblocks:clean_glass sides blank.png
+moreblocks:iron_glass bottom moreblocks_iron_glass_detail.png
+moreblocks:iron_glass sides moreblocks_iron_glass_detail.png
+xdecor:moonbrick all moreblocks_grey_bricks.png
+xdecor:stone_rune all moreblocks_circle_stone_bricks.png
+xdecor:stone_tile all moreblocks_stone_tile.png
+xdecor:woodframed_glass bottom default_glass_detail.png
+xdecor:woodframed_glass sides default_glass_detail.png
